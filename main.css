@@ -44,12 +44,12 @@ body {
   background-size: 90px;
   transform: skewX(14deg) translateX(-16px);
 }
-.container .heroes .hero:nth-child(1) .image {background-image: url("/images/hero1.png"); }
-.container .heroes .hero:nth-child(2) .image {background-image: url("/images/hero2.png"); }
-.container .heroes .hero:nth-child(3) .image {background-image: url("/images/hero3.png"); }
-.container .heroes .hero:nth-child(4) .image {background-image: url("/images/hero4.png"); }
-.container .heroes .hero:nth-child(5) .image {background-image: url("/images/hero5.png"); }
-.container .heroes .hero:nth-child(6) .image {background-image: url("/images/hero6.png"); }
+.container .heroes .hero:nth-child(1) .image {background-image: url("images/hero1.png"); }
+.container .heroes .hero:nth-child(2) .image {background-image: url("images/hero2.png"); }
+.container .heroes .hero:nth-child(3) .image {background-image: url("images/hero3.png"); }
+.container .heroes .hero:nth-child(4) .image {background-image: url("images/hero4.png"); }
+.container .heroes .hero:nth-child(5) .image {background-image: url("images/hero5.png"); }
+.container .heroes .hero:nth-child(6) .image {background-image: url("images/hero6.png"); }
 .container .heroes .hero:nth-child(7) .image {background-image: url("images/hero7.png"); }
 .container .heroes .hero:nth-child(8) .image {background-image: url("images/hero8.png"); }
 .container .heroes .hero:nth-child(9) .image {background-image: url("images/hero9.png"); }
